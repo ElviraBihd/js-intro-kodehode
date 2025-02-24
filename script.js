@@ -95,7 +95,7 @@ let user = {
   userGender: "Mann",
 };
 
-if (usser.userName === "Per") {
+if (user.userName === "Per") {
   console.log("Velkommen, Per!");
 } else if (user.userAge <= 18) {
   console.log("Du er for ung til å være her");
