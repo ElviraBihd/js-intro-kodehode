@@ -13,25 +13,27 @@ console.log("Hello, world!");
 // let exampleFloat = 30.2; // Float Number (decimal number)
 // let fromBergen = true; // Boolean (true or false)
 // let exampleArray = ["Mazda", "Opel", "Saab", "BMW"]; // Array
-/* let myObject = {
+let myObject = {
   firstName: "Ole",
   lastName: "Nordmann",
   age: 30,
   eMail: "ole.nordmann@gmail.com",
- }; */ // Object
+};
 
-console.los(myObject); // Output: {firstName: "Ole", lastName: "Nordmann", age: 30, eMail: "
+// console.log(myObject); // Output: {firstName: "Ole", lastName: "Nordmann", age: 30, eMail: "
 
-console.log(exampleArray); // Output: ["Mazda", "Opel", "Saab", "BMW"]
+// console.log(exampleArray); // Output: ["Mazda", "Opel", "Saab", "BMW"]
 
 // let x = 11;
 // let y = 4;
 
-x++; // Increment x by 1
-console.log(x); // Output: 12
+// x++; // Increment x by 1
+// console.log(x); // Output: 12
 
-let z = x + y; // Addition
-console.log(z); // Output: 16
+// let z = x + y; // Addition
+// console.log(z); // Output: 16
+
+// Operators
 
 let a = 10;
 let b = 15;
@@ -41,6 +43,8 @@ console.log(a - b);
 console.log(a * b);
 console.log(a / b);
 console.log(a % b);
+
+// Comparison Operators
 
 let x = 10;
 let y = 11;
